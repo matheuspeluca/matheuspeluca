@@ -1,6 +1,6 @@
 <div align="center">
 
-**Software Engineering Team Leader** at [EBANX](https://www.ebanx.com)  
+**Software Engineering Manager** at [Natura](https://www.emanapay.com.br/)  
 Curitiba, Brazil 🇧🇷
 
 **[📧 matheuspeluca2@gmail.com](mailto:matheuspeluca2@gmail.com)** · **[🔗 linkedin.com/in/matheuspeluca](https://www.linkedin.com/in/matheuspeluca)**
@@ -11,6 +11,6 @@ Curitiba, Brazil 🇧🇷
 
 ## 👋 About Me
 
-I currently lead the Payments team at EBANX within the Core Banking area, owning a critical Banking as a Service (BaaS) platform. I focus on building scalable, highly available systems while growing a strong engineering team and aligning technology decisions with business and strategic priorities.
+Software Engineer with 10+ years of experience designing and building scalable distributed systems across fintech, telecommunications, insurance, and government. Currently leading the Banking area at Emana Pay, Natura's fintech.
 
-With 10+ years in software engineering, I bring a balance of deep technical expertise and leadership, designing distributed systems, mentoring engineers, and delivering reliable solutions in highly regulated fintech environments with a strong understanding of business context and product strategy.
+Throughout my career, I've combined hands-on engineering with technical leadership, driving architecture decisions, mentoring engineers, and delivering secure, reliable, high-scale platforms in regulated environments. I enjoy solving complex technical challenges while aligning technology with business strategy and product goals.
